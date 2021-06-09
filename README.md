@@ -1,6 +1,10 @@
 # Chat-App
 
-It is a MERN Stack Web App equipped with end-to-end encryption using CryptoJS and AES Algorithm.
+This is a MERN Stack Web App equipped with end-to-end encryption using CryptoJS and AES Algorithm.
+
+# Screenshots
+![WhatsApp Image 2021-06-08 at 11 01 58 PM](https://user-images.githubusercontent.com/45177064/121274106-63112280-c8e7-11eb-80e0-cd1afa1d1ecf.jpeg)
+
 
 ## Installation
 
@@ -23,7 +27,7 @@ cd server
 npm run dev-start
 ```
 
-For Server, just run the following commands to run the react application
+For Client, just run the following commands to run the react application
 ```bash
 cd client
 npm start
