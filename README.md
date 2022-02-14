@@ -1,4 +1,4 @@
-# Chat-App
+# Anonymous-Chat-App
 
 This is a MERN Stack Web App equipped with end-to-end encryption using CryptoJS and AES Algorithm.
 
